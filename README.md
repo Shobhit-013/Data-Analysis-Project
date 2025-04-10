@@ -4,4 +4,4 @@ This repository contains my data analysis projects where I have performed Data a
 ## [Project - Housing Dashboard - Excel](https://github.com/Shobhit-013/Data-Analysis-Project/blob/main/Data%20Analysis%20of%20Home%20Prices%20in%20Cali%201990.xlsx)
 I performed Data Analysis of House Prices in California from 1990 to find a correlation of prices with various variables along with a dashboard and presented key insights. This public dataset is taken from Kaggle.
 
-![Housing Dashboard](https://github.com/Mabrar92/Data-Analysis-Projects/assets/18236632/8f1e4aea-93a4-49a1-b543-e175adc43639)
+![screenshot](https://github.com/user-attachments/assets/e411213e-5006-4b1f-ba27-863369483a98)
